@@ -1,5 +1,8 @@
 package com.bridgelabz;
-
+/*
+Take a range 0-1000 Numbers and find the prime numbers in that range.
+A prime number is number that is greater than 1 and divided by 1 or itself only.
+ */
 import java.util.Scanner;
 
 public class PrimeNumbers {
