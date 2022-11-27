@@ -25,7 +25,7 @@ public class BubbleSort <T extends Comparable<T>> {
              */
             for (int j = 0; j < n - 1 - i; j++) {
 
-                if (a[j] > a[j + 1]) {
+                if (a[j].compareTo( a[j + 1]) > 0) {
                     /*
                     swapping
                      */
